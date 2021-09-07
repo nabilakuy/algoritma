@@ -8,3 +8,20 @@ C = Gelas Kosong
 2. Tuangkan Gelas B ke A
 3. Tuangkan Gelas C ke B
 ```
+
+## Bentuk Bahasa Pemrograman C++
+```
+
+main () {
+int A;
+int B;
+int C;
+
+A = 10;
+B = 50;
+
+C = A;
+A = B;
+B = C;
+}
+```
